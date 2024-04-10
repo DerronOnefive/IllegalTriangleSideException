@@ -1,4 +1,9 @@
-/**/Class: Triangle.java * @author Derron Pierre * @version 1.3 * Course: ITEC 2150 Spring 2024 * Written:April 9th 
+/**Class: Triangle.java
+ * @author Derron Pierre
+ * @version 1.3
+ * Course: ITEC 2150 Spring 2024
+ * Written: April 9, 2024
+ */
 
 public class Triangle {
     // Declare private variables to store the lengths of the triangle sides
