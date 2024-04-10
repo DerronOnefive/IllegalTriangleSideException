@@ -1,4 +1,9 @@
-/**/Class: IllegalTriangleSideException.java * @author Derron Pierre * @version 1.3 * Course: ITEC 2150 Spring 2024 * Written:April 9th 
+/**Class: IllegalTriangleSideException
+ * @author Derron Pierre
+ * @version 1.3
+ * Course: ITEC 2150 Spring 2024
+ * Written: April 9, 2024
+ */
 
 // Define a custom exception class for handling illegal triangle side lengths
 public class IllegalTriangleSideException extends Exception {
